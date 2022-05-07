@@ -1,7 +1,7 @@
 # Hard-Encyrpt
 # Hide/Encrypt Your Py Code In Base64,marshal,zlib,etc
 
-#USE
+# USE
 
 git clone https://github.com/ALI-JUTT/Hard-Encyrpt
 
