@@ -1,5 +1,5 @@
 # Hard-Encyrpt
-# Hide/Encrypt Your Py Code In Base64,marshal,zlib,etc
+# Hide/Encrypt Your Code In Base64,marshal,zlib,etc
 
 # USE
 
